@@ -1,6 +1,6 @@
 import turtle
 sam=turtle.Turtle()
-sam.speed(5)
+sam.speed(0)
 #Why i created this code
 sam.setposition(100,0)
 sam.setposition(100,200)
@@ -33,3 +33,4 @@ for i in range(5):
     
 
 turtle.done
+input("")
