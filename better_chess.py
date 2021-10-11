@@ -1,6 +1,7 @@
 import turtle
 sam=turtle.Turtle()
 sam.speed(5)
+#Why i created this code
 sam.setposition(100,0)
 sam.setposition(100,200)
 sam.right(90)
